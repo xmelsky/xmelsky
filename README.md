@@ -1,5 +1,5 @@
 ### Hi there 👋
-Web Developer, :yellow_heart: front-end passionate
+Web Developer, :yellow_heart: front-end enthusiast
 :earth_americas: traveler, :bicyclist: bikepacking passionate :speech_balloon: telegram: @xmelsky
 <!--
 **xmelsky/xmelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
