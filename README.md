@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Web Developer from Poland, :yellow_heart: front-end enthusiast
-:earth_americas: traveler, :bicyclist: bikepacking passionate 
+I am a Web Developer from Poland, :yellow_heart: full-stack enthusiast, linux lover, cybersecurity learner 
 
 :speech_balloon: telegram: [@xmelsky](https://t.me/xmelsky)
 <!--
