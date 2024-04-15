@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a Web Developer from Poland, :yellow_heart: full-stack enthusiast, linux lover, cybersecurity learner 
+I am a Web Developer from Poland, :yellow_heart: networking and cybersecurity passionate, linux lover, full-stack developer, reverse engineering enthusiast and practitioner    
 
-:speech_balloon: telegram: [@xmelsky](https://t.me/xmelsky)
+:speech_balloon: telegram: [@xmelsky](https://t.me/dnsreverse)
 <!--
 **xmelsky/xmelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
